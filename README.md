@@ -1,10 +1,10 @@
-# DengAI-Predicting-Disease-Spread
+# DengAI: Predicting Disease Spread
 
-Used Random Forest Regression Tree on the data to predict the number of cases in the week.
+Machine learning regression project using Random Forests to forecast dengue cases based on environmental data.
 
-Competition website = https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
+## Competition
+- DrivenData
+- Rank: 2565 / 6957
 
-Competition Rank = 2565/6957
-
-Dataset Link = https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/data/
-
+## Tools
+- Python, pandas, scikit-learn
